@@ -1,0 +1,43 @@
+@font-face {
+	font-family: "LetsGoDigital";
+	src: url("../fonts/LetsGoDigital.ttf") format("opentype");
+}
+@font-face {
+	font-family: "Furore";
+	src: url("../fonts/Furore.otf") format("opentype");
+}   
+@font-face {
+	font-family: "Cantarell-Regular";
+	src: url("../fonts/Cantarell-Regular.ttf") format("opentype");
+} 
+@font-face {
+	font-family: "Cantarell-Bold";
+	src: url("../fonts/Cantarell-Bold.ttf") format("opentype");
+}
+p.info{
+
+margin-left: auto;
+    margin-right: auto;
+display: block;
+    width: 20em;
+    text-align: center;
+
+font-size: 24px;
+    font-weight: bold;
+
+}
+img.stuff
+{
+margin-left: auto;
+    margin-right: auto;
+display: block;
+
+}
+
+canvas#myCanvas 
+{
+margin-left: auto;
+    margin-right: auto;
+display: block;
+
+}
